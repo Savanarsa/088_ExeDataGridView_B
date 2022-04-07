@@ -1,0 +1,10 @@
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.Form1.resources
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+D:\SAVA KAMPUS\SEM 4\PABD\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
